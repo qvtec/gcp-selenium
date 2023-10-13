@@ -1,0 +1,5 @@
+requests
+python-dotenv
+slack-sdk~=3.*
+selenium~=4.*
+functions_framework~=3.*
